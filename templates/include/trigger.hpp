@@ -1,0 +1,1 @@
+#define DEBUG_MODE // 정의되면 debug_mode임
