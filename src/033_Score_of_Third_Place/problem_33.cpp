@@ -10,7 +10,7 @@
 */
 void problem_33()
 {
-    int i, j, n, max = 0, tmp;
+    int i, j, n;
     READ_TXT("./resources/input33.txt", "rt", stdin);
     scanf("%d", &n);
     int arr[100] = {0};
