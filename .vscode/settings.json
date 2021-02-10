@@ -1,7 +1,14 @@
 {
     "files.associations": {
         "cmath": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "*.tcc": "cpp",
+        "optional": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "istream": "cpp",
+        "numeric": "cpp",
+        "streambuf": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
