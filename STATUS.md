@@ -10,17 +10,30 @@
 
 61번 특정 수 만들기 - Wrong TC 4, 5
 
+75번 최대 수입 스케쥴 (greedy 라는데 최적해를 못 구하고 있음. 좀 어려운 듯...)
+
 ## SEEN
 
 43번 
 
 59번 - But Implemented all by myself
 
+## SKIPPED
+
+71, 72번 - BFS 풀 이유가 없는 문제고 그냥 계산으로도 돼서 뺐음
+
 ## TODO
 
 43번 DVD 개수 답안 본 것 코드 짜기
 
 66번 인접 리스트 만드는거 복습 하기
+
+69, 70번 답안 보기
+
+73, 74 Priority Queue 복습
+
+STL Priority Queue ADT 찾아보고 직접 구현해보기
+
 
 ## 정리
 

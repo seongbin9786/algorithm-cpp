@@ -1,7 +1,7 @@
 #include "problem_69.hpp"
 
 /*
-유형: 구현
+유형: BFS
 [풀이 전략]
 
 BFS를 구현해야 한다.
