@@ -40,6 +40,8 @@ STL Priority Queue ADT 찾아보고 직접 구현해보기
 
 - 참고: https://victorydntmd.tistory.com/102
 
+- 81번 벨만 포드 알고리즘 잘 이해가지가 않음..
+
 82~90 BFS/DFS 응용 문제 시도하기 ( 다음 주 부터 ㄱㄱ )
 
 ## 정리

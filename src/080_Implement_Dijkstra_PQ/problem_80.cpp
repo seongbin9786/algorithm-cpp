@@ -24,7 +24,7 @@ void problem_80pq()
     priority_queue<pair<int, int>, vector<pair<int, int>>, cmpPairSecond> pq;
     int u, v, ucost, vcost, i, n, m, a, b, c;
     const int INF = 99999;
-    bool visited[21] = {false};
+    bool visited[21] = {false};       // 이게 안 쓰이는 건지 내가 빠트리고 체크를 안 한 건지 모르겠음
     int dist[21];                     // INF 초기화 필요
     vector<pair<int, int>> graph[21]; // 연결 리스트 생성
     cin >> n >> m;
