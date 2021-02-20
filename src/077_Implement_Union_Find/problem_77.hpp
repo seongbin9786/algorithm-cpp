@@ -1,5 +1,5 @@
-#ifndef pXX
-#define pXX
+#ifndef p77
+#define p77
 
 #include <iostream>
 #include <stdio.h>
@@ -11,8 +11,6 @@
 #include "../../include/logger.hpp"
 #include "../../include/debugopen.hpp"
 
-using namespace std;
-
-void problem_XX();
+void problem_77();
 
 #endif

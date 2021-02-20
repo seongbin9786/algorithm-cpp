@@ -1,5 +1,5 @@
-#ifndef pXX
-#define pXX
+#ifndef p79
+#define p79
 
 #include <iostream>
 #include <stdio.h>
@@ -13,6 +13,6 @@
 
 using namespace std;
 
-void problem_XX();
+void problem_79();
 
 #endif

@@ -34,6 +34,13 @@
 
 STL Priority Queue ADT 찾아보고 직접 구현해보기
 
+`ios_base::sync_with_stdio(false);` 뭔지 알아보기
+
+77~81 그래프 알고리즘 복습하기, 시간 복잡도 제대로 분석하기(TODO)
+
+- 참고: https://victorydntmd.tistory.com/102
+
+82~90 BFS/DFS 응용 문제 시도하기 ( 다음 주 부터 ㄱㄱ )
 
 ## 정리
 
