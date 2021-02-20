@@ -18,6 +18,7 @@ bool visited79pq[31] = {0};
 // ====> 가능하다.
 /*
 // 이걸로 구조체를 넘겨줄 수 있음.
+https://developingbear.tistory.com/58 참고
 struct cmp {
     //연산자 오버로딩
     bool operator()(pair<int, int>&a, pair<int, int>&b) {
