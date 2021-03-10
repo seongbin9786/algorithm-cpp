@@ -15,9 +15,9 @@ endif
 # MinGW의 경우 static-lib 옵션을 줘야 Standard Library가 같이 이동된다고 함.
 # 왠지 모르겠는데 Windows Defender에서 바이러스로 오인함;
 ifeq ($(OS),win)
-CXXFLAGS	:= -std=c++14 -Wall -Wextra -g -static-libgcc -static-libstdc++
+CXXFLAGS	:= -std=c++17 -Wall -Wextra -g -static-libgcc -static-libstdc++
 else
-CXXFLAGS	:= -std=c++14 -Wall -Wextra -g
+CXXFLAGS	:= -std=c++17 -Wall -Wextra -g
 endif
 
 # define library paths in addition to /usr/lib
