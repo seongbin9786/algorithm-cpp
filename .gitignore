@@ -1,6 +1,7 @@
 # Project-specific
 /include/
 main.cpp
+input.txt
 
 # Compiled Object files
 *.o
