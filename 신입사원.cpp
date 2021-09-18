@@ -64,7 +64,7 @@
 */
 using namespace std;
 
-int main()
+int _main()
 {
     int T, N;
     cin >> T >> N;
