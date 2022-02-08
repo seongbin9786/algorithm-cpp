@@ -32,7 +32,6 @@
 
 bool failed = true; // do-while 때문에 true로 초기화
 
-// 중복순열 코드 (중복순열을 이해하는 게 먼저인 거 같은데 ㅋㅋ)
 // https://devyul.tistory.com/
 void ANDGate(int n, int *wArr, int *xArr, int bucketSize, int k)
 {
@@ -116,23 +115,3 @@ int main()
 
     return 0;
 }
-
-/*
-    어떻게 x[n]의 0,1 조합을 모두 출력해볼 수 있지?
-    x개수=0 (4C0 ...?)
-    0 0 0 0
-
-    x개수=1 (4C1 ...?)
-    1 0 0 0
-    0 1 0 0
-    0 0 1 0
-    0 0 0 1
-
-    x개수=2
-    1 1 0 0
-    1 0 1 0
-    1 0 0 1
-    0 1 1 0
-    0 1 0 1
-    0 0 1 1
-*/

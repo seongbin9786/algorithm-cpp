@@ -49,7 +49,9 @@
         "queue": "cpp",
         "stack": "cpp",
         "bitset": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "iomanip": "cpp",
+        "ctime": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
